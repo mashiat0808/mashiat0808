@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mashiat Amin Farin</h1>
 <h3 align="center">Intersted to work in Decentralized systems, Blockchain based systems, Web3, Machine learning, AI, Natural language processing, Data Science. Looking forward to exciting opportunities!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashiat0808&label=Profile%20views&color=0e75b6&style=flat" alt="mashiat0808" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashiat0808" alt="mashiat0808" /></a> </p>
-
 - 🌱 I’m currently learning **Rust, Solidity, ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mashiat0808](https://github.com/mashiat0808)
@@ -27,3 +23,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mashiat0808&show_icons=true&locale=en&layout=compact" alt="mashiat0808" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashiat0808&show_icons=true&locale=en" alt="mashiat0808" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mashiat0808&label=Profile%20views&color=0e75b6&style=flat" alt="mashiat0808" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mashiat0808" alt="mashiat0808" /></a> </p>
