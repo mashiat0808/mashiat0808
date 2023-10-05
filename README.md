@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mashiat Amin Farin</h1>
-<h3 align="center">Intersted to work in Decentralized systems, Blockchain based systems, Web3, Machine learning, AI, Natural language processing, Data Science. Looking forward to exciting opportunities!</h3>
+<h3 align="center">Intersted to work in Decentralized systems, Blockchain based systems, Web3, Machine learning, AI, Natural language processing, Data Science.</h3>
 
 - 🌱 I’m currently learning **Rust, Solidity, ReactJS, NodeJS**
 
